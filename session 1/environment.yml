@@ -1,0 +1,19 @@
+name: tutorial-mva-1
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipython
+  - jupyterlab  # for Jupyter notebooks
+  - loadmydata
+  - loadmydata
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - scikit-learn
+  - scipy
+  - statsmodels
+  - pip:
+    - git+https://github.com/alphacsc/alphacsc.git
+    - dtw-python

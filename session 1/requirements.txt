@@ -1,0 +1,10 @@
+dtw-python
+git+https://github.com/alphacsc/alphacsc.git
+ipython
+loadmydata
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+statsmodels
