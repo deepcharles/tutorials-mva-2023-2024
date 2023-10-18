@@ -1,7 +1,0 @@
-loadmydata
-matplotlib
-numpy
-pandas
-scikit-learn
-scipy
-statsmodels

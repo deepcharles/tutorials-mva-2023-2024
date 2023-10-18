@@ -1,4 +1,4 @@
-# Tutorials for the "Machine Learning for Time Series" class (Master 2 MVA, 2022-2023)
+# Tutorials for the "Machine Learning for Time Series" class (Master 2 MVA, 2023-2024)
 
 ([Course description.](http://www.laurentoudre.fr/ast.html))
 
