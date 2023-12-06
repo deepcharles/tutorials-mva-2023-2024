@@ -1,0 +1,11 @@
+contextily
+geopandas
+loadmydata>=0.0.11
+matplotlib
+numpy
+pandas
+pygsp
+scikit-learn
+scipy
+seaborn
+statsmodels
